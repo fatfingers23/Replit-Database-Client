@@ -1,0 +1,23 @@
+{
+    "name": "fatfingers23/replit-database-client",
+    "description": "A simple client for interacting with a replit database.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fatfingers23\\ReplitDatabaseClient\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bailey Townsend",
+            "email": "baileytownsend2323@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "pestphp/pest": "^1.21"
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}

@@ -1,0 +1,13 @@
+run = ["./vendor/bin/pest"]
+
+entrypoint = "main.php"
+
+language = "php"
+
+[nix]
+channel = "stable-21_11"
+
+[languages.php]
+pattern = "**/*.php"
+  [languages.php.languageServer]
+  start = ["intelephense", "--stdio"]
