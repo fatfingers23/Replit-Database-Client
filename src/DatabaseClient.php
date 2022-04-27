@@ -2,8 +2,6 @@
 
 namespace Fatfingers23\ReplitDatabaseClient;
 
-require_once 'vendor/autoload.php';
-
 use GuzzleHttp\Client as httpClient;
 use GuzzleHttp\Exception\ClientException;
 use GuzzleHttp\Exception\GuzzleException;
