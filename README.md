@@ -4,6 +4,7 @@ Repl.it PHP Database Client
 
 Simple Repl.it database client in PHP. Loosely based off of the [replit/database-node](https://github.com/replit/database-node).
 
+[![Latest Stable Version](http://poser.pugx.org/fatfingers23/replit-database-client/v)](https://packagist.org/packages/fatfingers23/replit-database-client) [![Total Downloads](http://poser.pugx.org/fatfingers23/replit-database-client/downloads)](https://packagist.org/packages/fatfingers23/replit-database-client) [![Latest Unstable Version](http://poser.pugx.org/fatfingers23/replit-database-client/v/unstable)](https://packagist.org/packages/fatfingers23/replit-database-client) [![License](http://poser.pugx.org/fatfingers23/replit-database-client/license)](https://packagist.org/packages/fatfingers23/replit-database-client) 
 [![Run on Repl.it](https://repl.it/badge/github/fatfingers23/Replit-Database-Client)](https://repl.it/github/fatfingers23/Replit-Database-Client)
 
 Requirements
