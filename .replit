@@ -1,6 +1,6 @@
-run = ["./vendor/bin/pest"]
+run = ["composer", "test"]
 
-entrypoint = "main.php"
+entrypoint = "src/DatabaseClient.php"
 
 language = "php"
 

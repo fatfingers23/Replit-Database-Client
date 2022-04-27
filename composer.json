@@ -1,6 +1,13 @@
 {
     "name": "fatfingers23/replit-database-client",
     "description": "A simple client for interacting with a replit database.",
+    "homepage": "https://github.com/fatfingers23/Replit-Database-Client",
+    "keywords": [
+      "replit",
+      "repl.it",
+      "database",
+      "cache"
+    ],
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -18,6 +25,13 @@
         "pestphp/pest": "^1.21"
     },
     "require": {
+        "php": "^8.0",
         "guzzlehttp/guzzle": "^7.0"
-    }
+    },
+    "scripts": {
+        "test": [
+            "@php vendor/bin/pest"
+        ]
+     }
 }
+
