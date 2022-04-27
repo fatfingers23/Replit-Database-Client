@@ -4,6 +4,7 @@ Repl.it PHP Database Client
 
 Simple Repl.it database client in PHP. Loosely based off of the [replit/database-node](https://github.com/replit/database-node).
 
+[![License](http://poser.pugx.org/fatfingers23/replit-database-client/license)](https://packagist.org/packages/fatfingers23/replit-database-client) 
 [![Run on Repl.it](https://repl.it/badge/github/fatfingers23/Replit-Database-Client)](https://repl.it/github/fatfingers23/Replit-Database-Client)
 
 Requirements
@@ -139,7 +140,4 @@ Contributing
 6. Push to the branch (git push origin my-new-feature).
 7. Create new pull request.
 
-License
-=======
 
-Please refer to [LICENSE](https://github.com/GinoPane/composer-package-template/blob/master/LICENSE).
