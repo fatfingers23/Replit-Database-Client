@@ -140,7 +140,4 @@ Contributing
 6. Push to the branch (git push origin my-new-feature).
 7. Create new pull request.
 
-License
-=======
 
-Please refer to [LICENSE](https://github.com/GinoPane/composer-package-template/blob/master/LICENSE).
