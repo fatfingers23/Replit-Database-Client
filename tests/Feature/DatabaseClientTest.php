@@ -165,3 +165,14 @@ test('Get Prefix Arrays', function () {
         $this->assertArrayHasKey('key', $result[$key]);
     }
 });
+
+
+test('Prefix Keys Return Empty Array If No Keys With Prefx', function () {
+    $result = $this->client->getPrefixKeys();
+    $this->assertCount(0,$result);
+});
+
+test('Prefix Get Return Null If No Keys With Prefx', function () {
+    $result = $this->client->getPrefix('test');
+    $this->assertNull($result);
+});
